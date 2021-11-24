@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\TrailMaker.cs" />
     <Compile Include="Assets\Scripts\TraversedArea.cs" />
+    <Compile Include="Assets\LoadDemo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

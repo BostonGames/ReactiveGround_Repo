@@ -11,7 +11,8 @@ public class TraversedArea : MonoBehaviour
     [SerializeField] GameObject previouslyTraversedTilePrefab;
 
     private bool makeTraversedRegion = true;
-    private bool makePreviouslyTraversedRegionVisible = false;
+    public bool makePreviouslyTraversedRegionVisible = false;
+    public bool showTraversedRegion = true;
 
     [Tooltip("Check if you want to see if the object is on previously traversed tiles")]
     [SerializeField] bool isCheckingForPreviouslyTraversedArea = true;
@@ -62,7 +63,7 @@ public class TraversedArea : MonoBehaviour
 
     public void AddTrailSegment()
     {
-        if(makeTraversedRegion == true)
+        if(makeTraversedRegion == true && showTraversedRegion == true)
         {
             Transform trailSegment = Instantiate(this.traversedTilePrefab).transform;
             trailSegment.position = this.transform.position;
@@ -77,6 +78,30 @@ public class TraversedArea : MonoBehaviour
             Transform trailSegment = Instantiate(this.previouslyTraversedTilePrefab).transform;
             trailSegment.position = this.transform.position;
             _previouslyTraversedTile.Add(trailSegment);
+        }
+    }
+
+    public void ToggleTraversedPath()
+    {
+        if (showTraversedRegion)
+        {
+            showTraversedRegion = false;
+        }
+        else 
+        {
+            showTraversedRegion = true;
+        }
+    }
+
+    public void TogglePreviouslyTraversedPath()
+    {
+        if (isCheckingForPreviouslyTraversedArea == true)
+        {
+            isCheckingForPreviouslyTraversedArea = false;
+        }
+        else 
+        {
+            isCheckingForPreviouslyTraversedArea = true;
         }
     }
 

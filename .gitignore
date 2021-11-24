@@ -70,3 +70,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Reactive Ground/Library/
+Reactive Ground/Builds/
+Reactive Ground/Temp/
