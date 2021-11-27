@@ -58,8 +58,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\TrailMaker.cs" />
+    <Compile Include="Assets\Scripts\LoadDemo.cs" />
     <Compile Include="Assets\Scripts\TraversedArea.cs" />
-    <Compile Include="Assets\LoadDemo.cs" />
+    <Compile Include="Assets\Scripts\GridSpawner.cs" />
+    <Compile Include="Assets\Scripts\TileBehavior.cs" />
+    <Compile Include="Assets\reVisitedTileBehavior.cs" />
+    <Compile Include="Assets\Scripts\GroundTrailOnly.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
