@@ -16,6 +16,7 @@ and/or calculating the highest number of entities (tiles, trailable objects, vis
 -Optimize how lists are used for multithreading
 
 11/24/2021 : Initial Commit - full functionality for traversed path, revisited path, and trailing objects
+11/26/2021 : Redesigned the scripts for traversed path and visited path. Added procedurally generated grid ground and procedurally generated cosmetic ground trail effect. 
 
 <i>I will be out of town visiting family for the Thanksgiving holiday late Wednesday Nov 24 until Friday Nov 26
 I will polish the project a bit more when I get back - have a great week!
