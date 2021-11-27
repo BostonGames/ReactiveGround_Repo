@@ -15,7 +15,7 @@ TODO:
 and/or calculating the highest number of entities (tiles, trailable objects, visited tiles, etc) that will be required and use object pooling (ECS) to improve performance.<br>
 -Optimize how lists are used for multithreading
 
-11/24/2021 : Initial Commit - full functionality for traversed path, revisited path, and trailing objects
+11/24/2021 : Initial Commit - full functionality for traversed path, revisited path, and trailing objects<br>
 11/26/2021 : Redesigned the scripts for traversed path and visited path. Added procedurally generated grid ground and procedurally generated cosmetic ground trail effect. 
 
 <i>I will be working on this some more over the weekend between my working hours : )
