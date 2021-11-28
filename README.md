@@ -1,5 +1,7 @@
 # Reactive Ground
 
+Test play the demo here: https://play.unity.com/mg/other/reactive-ground
+
 -Add objects that will trail a moving object, such as the player, in a Snake-like fashion<br>
 -Visualize and log what path/ground a moving object has traversed<br>
 -Visualize, handle, and log when the same moving object has visited a path/ground more than once<br>
@@ -17,6 +19,6 @@ and/or calculating the highest number of entities (tiles, trailable objects, vis
 
 11/24/2021 : Initial Commit - full functionality for traversed path, revisited path, and trailing objects<br>
 11/26/2021 : Redesigned the scripts for traversed path and visited path. Added procedurally generated grid ground and procedurally generated cosmetic ground trail effect.<br>
-11/27/2021 : Demos now available
+11/27/2021 : Demos now available - link to Unity Play added
 
 <i>I will be working on this some more over the weekend between my working hours : )
