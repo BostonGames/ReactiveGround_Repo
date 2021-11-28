@@ -194,10 +194,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   visitedTile: {fileID: 7741409179667651020}
   visitedCollider: {fileID: 6132033162397271207}
-  activatedColor: {r: 1, g: 0.28773582, b: 0.95832044, a: 1}
-  visitedColor: {r: 0.1509434, g: 0.1509434, b: 0.1509434, a: 1}
+  activatedColor: {r: 0.98907876, g: 0.28627455, b: 1, a: 1}
+  visitedColor: {r: 0, g: 0.3068099, b: 1, a: 1}
   initialColor: {r: 0, g: 0, b: 0, a: 0}
-  fadeTime: 2.5
+  trailFadeTime: 0.7
 --- !u!1 &6132033162397271207
 GameObject:
   m_ObjectHideFlags: 0

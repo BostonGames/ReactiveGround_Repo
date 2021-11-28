@@ -9,7 +9,7 @@ public class GridSpawner : MonoBehaviour
     [SerializeField] float gridSpacingOffeset = 1.0f;
     [SerializeField] Vector3 gridOrigin = Vector3.zero;
 
-    void Start()
+    void Awake()
     {
         SpawnGrid();
     }

@@ -56,14 +56,16 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\TileBehaviorNoTrail.cs" />
+    <Compile Include="Assets\Scripts\TileBehavior.cs" />
+    <Compile Include="Assets\Scripts\ButtonHover.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\TrailMaker.cs" />
-    <Compile Include="Assets\Scripts\LoadDemo.cs" />
-    <Compile Include="Assets\Scripts\TraversedArea.cs" />
     <Compile Include="Assets\Scripts\GridSpawner.cs" />
-    <Compile Include="Assets\Scripts\TileBehavior.cs" />
-    <Compile Include="Assets\reVisitedTileBehavior.cs" />
+    <Compile Include="Assets\Scripts\LoadDemo.cs" />
+    <Compile Include="Assets\Scripts\reVisitedTileBehavior.cs" />
     <Compile Include="Assets\Scripts\GroundTrailOnly.cs" />
+    <Compile Include="Assets\Scripts\TraversedArea.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -114,7 +114,7 @@ MonoBehaviour:
   visitedCollider: {fileID: 6132033162397271207}
   activatedColor: {r: 0.94275093, g: 0, b: 1, a: 1}
   initialColor: {r: 0, g: 0, b: 0, a: 1}
-  trailFadeTime: 0.56
+  trailFadeTime: 0.7
 --- !u!1 &6132033162397271207
 GameObject:
   m_ObjectHideFlags: 0

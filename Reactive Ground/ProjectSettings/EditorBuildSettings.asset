@@ -9,6 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: 9f58adb590c6d1949ac36832ea914e1e
   - enabled: 1
-    path: Assets/Scenes/Demo.unity
-    guid: f5f4af087eff7ca4f92e084cda49c3a4
+    path: Assets/Scenes/Demo_AllFeatures.unity
+    guid: d74878f520be387489e200a9908c9559
+  - enabled: 1
+    path: Assets/Scenes/Demo_ObjectTrail.unity
+    guid: 3e3fd28765118324196672baa51eefd4
+  - enabled: 1
+    path: Assets/Scenes/Demo_GroundTrailOnly.unity
+    guid: cbbb167416cc69e4ca2598250ff3132d
+  - enabled: 1
+    path: Assets/Scenes/Demo_Visited.unity
+    guid: 8dc51c20520314b49aa58dc65ae5b4b2
+  - enabled: 1
+    path: Assets/Scenes/Demo_ReVisitedAreaTracking.unity
+    guid: cd6363886e146bc4c94283f997d2f62b
   m_configObjects: {}

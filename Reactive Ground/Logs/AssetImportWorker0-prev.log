@@ -1,0 +1,259 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1348; Version 2004; 64bit' Language: 'en' Physical Memory: 32684 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Allyn/Desktop/Frameplay/Builds/Repository/ReactiveGround_Repo/Reactive Ground
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53842
+Successfully changed project path to: C:/Users/Allyn/Desktop/Frameplay/Builds/Repository/ReactiveGround_Repo/Reactive Ground
+C:/Users/Allyn/Desktop/Frameplay/Builds/Repository/ReactiveGround_Repo/Reactive Ground
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Allyn/Desktop/Frameplay/Builds/Repository/ReactiveGround_Repo/Reactive Ground/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.003789 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 32.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.747 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1403 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.9 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1842.
+Total: 1.701700 ms (FindLiveObjects: 0.134400 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.471900 ms  DeleteObjects: 0.063900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/Icon_Arrow1.png
+  artifactKey: Guid(ab87c4ad0c44824459ecec72b81c3ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/Icon_Arrow1.png using Guid(ab87c4ad0c44824459ecec72b81c3ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde0d54304180d8e8396904430fcd76c') in 0.097410 seconds 
+  Import took 0.099963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Android.png
+  artifactKey: Guid(2f29486dcf90a1e48a054800ede68ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Android.png using Guid(2f29486dcf90a1e48a054800ede68ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f66eb7304b406c1b5968bf33592801') in 0.008133 seconds 
+  Import took 0.010458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Architecture.png
+  artifactKey: Guid(86049326b5c4c6c4289588b5941c424b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Architecture.png using Guid(86049326b5c4c6c4289588b5941c424b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277c5ebb5eb13e75ea2b025aabe99f59') in 0.007000 seconds 
+  Import took 0.008922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon-File.png
+  artifactKey: Guid(a96fe7d1fcf686a44bb81cfef7b1df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon-File.png using Guid(a96fe7d1fcf686a44bb81cfef7b1df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914c306eccfc564a513183099a3ab49c') in 0.007344 seconds 
+  Import took 0.009126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_Back.png
+  artifactKey: Guid(7d32c99b970ef4b4980ed5f0497eb93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_Back.png using Guid(7d32c99b970ef4b4980ed5f0497eb93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea2cfc3a8feec3b42b3d6c1da16e7e1') in 0.007194 seconds 
+  Import took 0.008990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_AddPerson.png
+  artifactKey: Guid(f0315bdcfba2039428599daa74f0a0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_AddPerson.png using Guid(f0315bdcfba2039428599daa74f0a0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1172b2846f8b9beb5a94041a23ae8655') in 0.007213 seconds 
+  Import took 0.009288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Textures/icon2.psd
+  artifactKey: Guid(7d3203fbaabc84248b732b7afff3b70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/icon2.psd using Guid(7d3203fbaabc84248b732b7afff3b70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2462149b47c48a968797ce3dc286689f') in 0.010552 seconds 
+  Import took 0.012710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/ICON_Attack.png
+  artifactKey: Guid(9e34d3eabdf58bc498232bc6a12cf1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/ICON_Attack.png using Guid(9e34d3eabdf58bc498232bc6a12cf1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60c77acb69d2fa14c3976e0cc4fe456') in 0.007964 seconds 
+  Import took 0.010071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_Back1.png
+  artifactKey: Guid(59e9c9594d5a13440a62e9e93e85306d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_Back1.png using Guid(59e9c9594d5a13440a62e9e93e85306d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a9d692fbeff7437c145b5cf9641068') in 0.006929 seconds 
+  Import took 0.008971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Add.png
+  artifactKey: Guid(b64eea0c3c0b61341a265018d28a3fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Add.png using Guid(b64eea0c3c0b61341a265018d28a3fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403538fbb4ad03ce6459ef8f8385a3f8') in 0.007205 seconds 
+  Import took 0.009032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Apple.png
+  artifactKey: Guid(9af4e1607665bd840b69da03d2e6318a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons3/Icon_Apple.png using Guid(9af4e1607665bd840b69da03d2e6318a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7018c8a943fe87c9a8580ac72f87617') in 0.007010 seconds 
+  Import took 0.008775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_address.png
+  artifactKey: Guid(08584357f93ef8f45b08fac3d0c60463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_address.png using Guid(08584357f93ef8f45b08fac3d0c60463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d788591027c6c2cbe6fff0178392225') in 0.007207 seconds 
+  Import took 0.009480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Textures/icon2.png
+  artifactKey: Guid(c04ef92822dc53b4abb4e4f0cada1505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/icon2.png using Guid(c04ef92822dc53b4abb4e4f0cada1505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce9c1cdc5843d5c345c398c64af3e7a') in 0.006374 seconds 
+  Import took 0.008445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/Icon_Again.png
+  artifactKey: Guid(d3a7496b7b5b03b4190271c85354a2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/Icon_Again.png using Guid(d3a7496b7b5b03b4190271c85354a2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cb67c4c22546a190a9c37c5405f7e1') in 0.007149 seconds 
+  Import took 0.009034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_again.png
+  artifactKey: Guid(e6efca9ccde4a1b4fb24f57122f89015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons4/Icon_again.png using Guid(e6efca9ccde4a1b4fb24f57122f89015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f93ebcf55991199bc3bedbbd0c11fc33') in 0.007998 seconds 
+  Import took 0.010278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons2/Icon_Arch.png
+  artifactKey: Guid(72214de235f0ac244a064fb0e3ff1f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons2/Icon_Arch.png using Guid(72214de235f0ac244a064fb0e3ff1f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc1aa7723e7b813eec279ba3aac611a') in 0.007546 seconds 
+  Import took 0.009665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/Icon_Back1.png
+  artifactKey: Guid(11724825539b96943bb85de3e6439b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dontGITme_SCI-FI UI Pack_Components V1/Resources_Components V1/Textures/Icons1/Icon_Back1.png using Guid(11724825539b96943bb85de3e6439b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6834949772c8686417b57db86a6f88c9') in 0.007304 seconds 
+  Import took 0.009229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.313320 seconds.
+  path: Assets/Textures/icon2.png
+  artifactKey: Guid(c04ef92822dc53b4abb4e4f0cada1505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/icon2.png using Guid(c04ef92822dc53b4abb4e4f0cada1505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c53068db48da1159bd7ed72c2963752') in 0.010089 seconds 
+  Import took 0.012406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.231264 seconds.
+  path: Assets/Scenes/Demo_ReVisitedAreaTracking.unity
+  artifactKey: Guid(cd6363886e146bc4c94283f997d2f62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Demo_ReVisitedAreaTracking.unity using Guid(cd6363886e146bc4c94283f997d2f62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0c77a2d3cd838632fa6c1e92d0a5ab') in 0.002718 seconds 
+  Import took 0.006393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.467469 seconds.
+  path: Assets/Scenes/Start.unity
+  artifactKey: Guid(9f58adb590c6d1949ac36832ea914e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start.unity using Guid(9f58adb590c6d1949ac36832ea914e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae6f6af54337252b5e3eb56011dd71b') in 0.002599 seconds 
+  Import took 0.004902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004687 seconds.
+  path: Assets/Scenes/Start.unity
+  artifactKey: Guid(9f58adb590c6d1949ac36832ea914e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start.unity using Guid(9f58adb590c6d1949ac36832ea914e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae6f6af54337252b5e3eb56011dd71b') in 0.001798 seconds 
+  Import took 0.003491 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
